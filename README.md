@@ -36,8 +36,8 @@ The main component of this code is assigning the sounds to the buttons.
 This part uses a dictionary to assign each button using their pins to a sound. By using pygame.mixer.Sound it allows you to acces your downloaded files and input them into the program. 
 For more information, refrence the Python script music.py, which contains the code written line by line. 
 
-#Resources
--gpiozero:https://gpiozero.readthedocs.io/en/stable/recipes.html
--Raspberry Pi Foundation: https://projects.raspberrypi.org/en/projects/gpio-music-box
--Music Download: rpf.io/p/en/gpio-music-box-go
+# Resources
+- gpiozero:https://gpiozero.readthedocs.io/en/stable/recipes.html
+- Raspberry Pi Foundation: https://projects.raspberrypi.org/en/projects/gpio-music-box
+- Music Download: rpf.io/p/en/gpio-music-box-go
 
