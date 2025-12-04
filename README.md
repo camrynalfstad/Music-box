@@ -5,19 +5,19 @@ This project combines Python programming and a Raspberyy Pi, to create a sound s
 The system wull function using Pygame to create an interactive music player, with buttons to control each sound. This will be done using a dictionary that assigns each button to play a downloaded sound when pressed. The speaker which is connected to the Pi will then play the assigned sound.
 
 # List of Materials
--Raspberry Pi with multiple USB ports
--Power supply for Raspberry Pi
--Four tactile buttons
--Nine Male to Male wires
--USB Speaker
--Python Libraries: Pygame, GPIOzero, Button, and pause
+- Raspberry Pi with multiple USB ports
+- Power supply for Raspberry Pi
+- Four tactile buttons
+- Nine Male to Male wires
+- USB Speaker
+- Python Libraries: Pygame, GPIOzero, Button, and pause
 
 # How to wire
--Place the four tactile buttons with each set of prongs on either side of the middle of the breadboard
--Connect one set of prongs on each tactile button to Ground
--Connect the other set of prongs on button 1 to pin 22
--Repeat step 3 for each tactile button connecting to pins 21,20, and 19
--Plug the USB Speaker into one of the USB ports located on the Pi
+- Place the four tactile buttons with each set of prongs on either side of the middle of the breadboard
+- Connect one set of prongs on each tactile button to Ground
+- Connect the other set of prongs on button 1 to pin 22
+- Repeat step 3 for each tactile button connecting to pins 21,20, and 19
+- Plug the USB Speaker into one of the USB ports located on the Pi
 
 # How to Run the Program
 1. Setup Raspberry Pi by installing the proper libraries
