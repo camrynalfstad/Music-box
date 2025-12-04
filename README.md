@@ -1,5 +1,5 @@
 # Music-Box
-About The Project
+# About The Project
 This project combines Python programming and a Raspberyy Pi, to create a sound system that can be accessed through interactive buttons. The Pi us equipped with 4 tactile buttons which when pressed will play a certain beat or sound. The goal of this project is to give users access to a variety of different beats that provide an enjoyable experience. 
 
 The system wull fut6ion using Pygame to create an interactive music player, with buttons to contorl each sound. This will be done using a dictionary that assigns each button to play a downloaded sound when pressed. The speaker which is connected to the Pi will then play the assigned sound.
